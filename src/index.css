@@ -5,9 +5,36 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.myClass{
+  
+  font-size: 32px;
+  color: rgb(255, 180, 180);
+  text-align: center;
+
+}
+
+.myList{
+  padding-left: 10px;
+  color: rgb(3, 3, 3);
+  font-size: 20px;
+  background-color: darkorange;
+}
+.myList li{
+  background-color: rgb(112, 243, 171);
+  margin-top: 10px;
+}
+.add {
+  color: blanchedalmond;
+  font-size: 28px;
+  padding-left: 10px;
+
+
 }
