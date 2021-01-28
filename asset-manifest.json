@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/REACT-CLASSES/static/css/main.bab181bc.chunk.css",
+    "main.js": "/REACT-CLASSES/static/js/main.a0aa064c.chunk.js",
+    "main.js.map": "/REACT-CLASSES/static/js/main.a0aa064c.chunk.js.map",
+    "runtime-main.js": "/REACT-CLASSES/static/js/runtime-main.61bd0d2e.js",
+    "runtime-main.js.map": "/REACT-CLASSES/static/js/runtime-main.61bd0d2e.js.map",
+    "static/js/2.909c43c6.chunk.js": "/REACT-CLASSES/static/js/2.909c43c6.chunk.js",
+    "static/js/2.909c43c6.chunk.js.map": "/REACT-CLASSES/static/js/2.909c43c6.chunk.js.map",
+    "index.html": "/REACT-CLASSES/index.html",
+    "static/css/main.bab181bc.chunk.css.map": "/REACT-CLASSES/static/css/main.bab181bc.chunk.css.map",
+    "static/js/2.909c43c6.chunk.js.LICENSE.txt": "/REACT-CLASSES/static/js/2.909c43c6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61bd0d2e.js",
+    "static/js/2.909c43c6.chunk.js",
+    "static/css/main.bab181bc.chunk.css",
+    "static/js/main.a0aa064c.chunk.js"
+  ]
+}
